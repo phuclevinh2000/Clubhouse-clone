@@ -1,9 +1,22 @@
-
+import React from 'react';
 import './App.css';
+import PlanLayout from './pages/Layouts/PlanLayout';
+import Welcome from './pages/Welcome';
+import { BrowserRouter, Route } from 'react-router-dom'
+import PhoneConfirmation from './pages/PhoneConfirmation';
+import CodeConfirm from './pages/CodeConfirm';
 
+//planlayout
 function App() {
   return (
-   <h2>hi</h2>
+    <BrowserRouter>
+      <PlanLayout>
+        <Route exact path="/" component={Welcome} />
+        <Route exact path="/invite" component={PhoneConfirmation} />
+        <Route exact path="/code_confirm" component={CodeConfirm} />
+      </PlanLayout>
+    </BrowserRouter>
+   
   );
 }
 
