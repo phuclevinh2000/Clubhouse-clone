@@ -17,13 +17,17 @@ const CodeConfirm = () => {
                     style={{
                         width: "100%",
                         border: "none",
-                        textAlign: "center",                        outline: "none"
+                        textAlign: "center",                        
+                        outline: "none"
                     }}/>
                 <p className="mt-2">
                     Didn't receive it? <span>Tap to resend</span>
                 </p>
             </div>
-            <Link exact to="/get_username" className="primaryBtn d-flex align-items-center">
+            <Link 
+                exact to="/allow_notification" 
+                className="primaryBtn d-flex align-items-center"
+            >
                 Next 
             </Link>
         </div>
