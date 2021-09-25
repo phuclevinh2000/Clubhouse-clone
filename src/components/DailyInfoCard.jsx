@@ -1,11 +1,20 @@
 import React from 'react'
-// import style from "../style/dailyInfoCard.module.css"
+import style from "../style/dailyInfoCard.module.css"
 import data from "../data/dailyCard.json"
 
 const DailyInfoCard = () => {
+    // console.log(data)
     return (
-        <div>
-            <h2>I'm the daily card</h2>
+        <div className={style.dailyCard}>
+           {data.map((item) => (
+                <div>
+                   <span className="">{item.time}</span>
+                   <div>
+                       <span>{item.title}</span>
+                       <p>{item.description}</p>
+                    </div>
+                </div>
+           ))}
         </div>
     )
 }
