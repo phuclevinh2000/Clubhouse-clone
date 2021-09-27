@@ -6,3 +6,9 @@
     padding-bottom: 3.5em;
     height: 100%;
 }
+
+.home_container+.action_btn button {
+    background-color: transparent;
+    border: none;
+    margin-left: auto;
+}
