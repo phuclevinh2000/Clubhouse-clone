@@ -52,6 +52,7 @@ const StartRoom = (props) => {
                     onClick={() => {
                         props.setSheetCreateRoom(true)
                         props.setSheetVisible(true)
+                        
                     }}
                 >
                     Let's go
