@@ -2,7 +2,13 @@
     "members":[
         {
             "first_name":"Phuc",
-            "last_name": "Le"
+            "last_name": "Le",
+            "profile_image": "https://scontent-hel3-1.xx.fbcdn.net/v/t1.6435-9/81006604_1350617865117590_2165876325754077184_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=g3s4ycqXxI0AX8EyeUX&_nc_ht=scontent-hel3-1.xx&oh=c7e4e67d11973060d2ed02fefa60c640&oe=617ED6C8"
+        },
+        {
+            "first_name":"Tram",
+            "last_name": "Nguyen",
+            "profile_image": "/images/user_image_2.jpg"
         }
     ]
 }
