@@ -1,0 +1,38 @@
+{
+    "people": [
+        {
+            "title": "April Underwood",
+            "description": "CEO and Founder, local laboratory. CO-founder"
+        },
+        {
+            "title": "Helena",
+            "description": "Founter Twitter"
+        },
+        {
+            "title": "Tram Ngoc",
+            "description": "@tramngoc1402"
+        }
+    ],
+    "conversation": [
+        {
+            "title": "Tech",
+            "discription": "Venture Capital, DTC, AI, SaaS"
+        },
+        {
+            "title": "Languages",
+            "discription": "VietNamese, English"
+        },
+        {
+            "title": "Identity",
+            "discription": "Venture Capital, DTC, AI, SaaS"
+        },
+        {
+            "title": "Sport",
+            "discription":"Venture Capital, DTC, AI, SaaS"
+        },
+        {
+            "title": "Life",
+            "discription": "Venture Capital, DTC, AI, SaaS"
+        }
+    ]
+}
