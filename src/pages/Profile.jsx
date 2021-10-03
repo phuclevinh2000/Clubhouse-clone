@@ -60,7 +60,7 @@ const Profile = () => {
                 </div>
             </div>
             <p>Member of </p>
-            <button className={style.actionBtn}>
+            <button className={style.addMemberBtn}>
                 <BsPlus />
             </button>
         </div>
