@@ -2,7 +2,7 @@
     "people": [
         {
             "title": "April Underwood",
-            "description": "CEO and Founder, local laboratory. CO-founder"
+            "description": "CEO and Founder, local laboratory. Co-founder NgocMaxinutrion"
         },
         {
             "title": "Helena",
@@ -16,23 +16,23 @@
     "conversation": [
         {
             "title": "Tech",
-            "discription": "Venture Capital, DTC, AI, SaaS"
+            "description": "Venture Capital, DTC, AI, SaaS"
         },
         {
             "title": "Languages",
-            "discription": "VietNamese, English"
+            "description": "VietNamese, English"
         },
         {
             "title": "Identity",
-            "discription": "Venture Capital, DTC, AI, SaaS"
+            "description": "Venture Capital, DTC, AI, SaaS"
         },
         {
             "title": "Sport",
-            "discription":"Venture Capital, DTC, AI, SaaS"
+            "description":"Venture Capital, DTC, AI, SaaS"
         },
         {
             "title": "Life",
-            "discription": "Venture Capital, DTC, AI, SaaS"
+            "description": "Venture Capital, DTC, AI, SaaS"
         }
     ]
 }
